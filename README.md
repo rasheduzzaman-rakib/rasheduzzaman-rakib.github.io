@@ -1,5 +1,3 @@
-# rasheduzzaman-rakib.github.io
-
 <h1 align="center">Hi 👋, I'm Rashed</h1>
 <h3 align="center">A passionate competitive programmer & a new web developer in town</h3>
 <p align="left"> <a href="https://twitter.com/rasheduzzaman_r" target="blank"><img src="https://img.shields.io/twitter/follow/rasheduzzaman_r?logo=twitter&style=for-the-badge" alt="rasheduzzaman_r" /></a> </p>
