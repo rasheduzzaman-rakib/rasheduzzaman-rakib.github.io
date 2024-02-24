@@ -4,7 +4,7 @@
 
 - 🌱 I’m studying Computer Science at Dhaka International University 
 
-- 📫 Mail me at **contact.rasheduzzaman@students.diu.ac**
+- 📫 Mail me at **rashed@students.diu.ac**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
